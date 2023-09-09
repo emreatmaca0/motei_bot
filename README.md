@@ -1,1 +1,1 @@
-# motei
+# motei bot
